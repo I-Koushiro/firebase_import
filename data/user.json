@@ -1,0 +1,35 @@
+{
+  "markets": [
+    {
+      "cropName": "tomato",
+      "marketName": "Tokyo",
+      "subCollection": {
+        "price": [
+          {
+            "actualPrice": 120,
+            "predictedPrice": 118,
+            "date": "2025-12-01"
+          },
+          {
+            "actualPrice": 123,
+            "predictedPrice": 121,
+            "date": "2025-12-02"
+          }
+        ]
+      }
+    },
+    {
+      "cropName": "cabbage",
+      "marketName": "Tokyo",
+      "subCollection": {
+        "price": [
+          {
+            "actualPrice": 80,
+            "predictedPrice": 79,
+            "date": "2025-12-01"
+          }
+        ]
+      }
+    }
+  ]
+}

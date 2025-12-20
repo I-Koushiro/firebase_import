@@ -1,0 +1,6 @@
+# node_modules ディレクトリをすべて無視
+node_modules/
+
+# secret ディレクトリ内の secret-key.json のみ無視
+secret/secret-key.json
+.DS_Store
