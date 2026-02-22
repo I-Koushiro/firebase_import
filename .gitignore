@@ -3,4 +3,5 @@ node_modules/
 
 # secret ディレクトリ内の secret-key.json のみ無視
 secret/secret-key.json
+data/user.json
 .DS_Store
